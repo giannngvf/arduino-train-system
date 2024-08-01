@@ -1,7 +1,7 @@
 # Arduino Train System
 
 ## Description
-This project is designed to create a train system with 6 stations using Arduino. Each station is equipped with an IR sensor, a servo motor, and an LCD display. The Arduino controls the movement of trains between stations and updates the LCD messages accordingly. This project was successfully done because of my amazingggg groupmates: **John Michael Romero**, **Irish Paniza**, and **Maria Alexandra Catarining**.
+This project is designed to create a train system with 6 stations using Arduino. Each station is equipped with an IR sensor, a servo motor, and an LCD display. The Arduino controls the movement of trains between stations and updates the LCD messages accordingly. This project was successfull because of my amazinggg groupmates: **John Michael Romero**, **Irish Paniza**, and **Maria Alexandra Catarining**.
 
 ## Features
 - **Train Stations**: Six stations, each with an IR sensor, servo motor, and LCD display.
